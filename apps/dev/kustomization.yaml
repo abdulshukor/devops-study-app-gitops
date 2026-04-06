@@ -10,4 +10,4 @@ images:
   - name: ghcr.io/abdulshukor/study-app-api
     newTag: backend-v0.4.6
   - name: ghcr.io/abdulshukor/study-app-web
-    newTag: frontend-v0.2.0
+    newTag: frontend-v0.2.1
